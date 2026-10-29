@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpectroIR</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_analyze">Analyze</string>
+    <string name="nav_dictionary">IR Dictionary</string>
+    <string name="nav_reference">Reference</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+</resources>
